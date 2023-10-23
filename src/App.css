@@ -1,0 +1,74 @@
+#myBox{
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#label_change{
+  font-size: 20px;
+}
+
+#to_center{
+  margin-top: 15px;
+  padding-top: 10px;
+  font-size: 42px;
+  text-align: center;
+}
+
+.p-change{
+  font-size: 23px;
+  text-align: center;
+  border: 2px solid #212529;
+  padding: 20px 10px;
+  background-color: rgba(152, 152, 152, 0.237);
+  margin-top: 10px;
+  height: 350px;
+  width: 70vw;
+  display: flex;
+  border-radius: 20px;
+  align-items: center;
+  /* color: black; */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cont{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  margin-left: -50px;
+}
+
+.btn-primary{
+  margin-bottom: 10px;
+}
+#Container{
+  /* color: white; */
+  width: 100vw;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0 50px 0 50px; 
+}
+
+#to-big{
+  height: 65px;
+}
+
+#dmbtn{
+  margin-top: 10px;
+}
+
+.dmbtn{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  margin-left: -150px;
+}
+
+.nav-item{
+  font-size: 20px;
+}
